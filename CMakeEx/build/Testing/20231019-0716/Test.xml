@@ -24,40 +24,11 @@
 	ProcessorClockFrequency="0"
 	>
 	<Testing>
-		<StartDateTime>Oct 19 17:22 KST</StartDateTime>
-		<StartTestTime>1697703759</StartTestTime>
-		<TestList>
-			<Test>./Test1</Test>
-		</TestList>
-		<Test Status="passed">
-			<Name>Test1</Name>
-			<Path>.</Path>
-			<FullName>./Test1</FullName>
-			<FullCommandLine>/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/build/Exproj</FullCommandLine>
-			<Results>
-				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>100.036</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="numeric/double" name="Processors">
-					<Value>1</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Completion Status">
-					<Value>Completed</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Command Line">
-					<Value>/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/build/Exproj</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Environment">
-					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
-				</NamedMeasurement>
-				<Measurement>
-					<Value>모든 테스트가 완성되었습니다
-</Value>
-				</Measurement>
-			</Results>
-		</Test>
-		<EndDateTime>Oct 19 17:24 KST</EndDateTime>
-		<EndTestTime>1697703859</EndTestTime>
-		<ElapsedMinutes>1</ElapsedMinutes>
+		<StartDateTime>Oct 19 17:46 KST</StartDateTime>
+		<StartTestTime>1697705193</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 19 17:46 KST</EndDateTime>
+		<EndTestTime>1697705193</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
