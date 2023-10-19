@@ -1,19 +1,3 @@
-Start testing: Oct 19 17:22 KST
+Start testing: Oct 19 17:46 KST
 ----------------------------------------------------------
-1/1 Testing: Test1
-1/1 Test: Test1
-Command: "/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/build/Exproj"
-Directory: /home/team2_2/testGit/RaspberryPi_Check/CMakeEx/build
-"Test1" start time: Oct 19 17:22 KST
-Output:
-----------------------------------------------------------
-모든 테스트가 완성되었습니다
-<end of output>
-Test time = 100.04 sec
-----------------------------------------------------------
-Test Passed.
-"Test1" end time: Oct 19 17:24 KST
-"Test1" time elapsed: 00:01:40
-----------------------------------------------------------
-
-End testing: Oct 19 17:24 KST
+End testing: Oct 19 17:46 KST
