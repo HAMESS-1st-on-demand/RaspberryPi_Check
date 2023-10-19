@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/naiveGPIO.dir/naiveGPIO.c.o -c /home/team2_2/testGit/RaspberryPi_Check/CMakeEx/naiveGPIO.c",
+  "file": "/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/naiveGPIO.c"
+},
+{
+  "directory": "/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc   -g -o CMakeFiles/Exproj.dir/main.c.o -c /home/team2_2/testGit/RaspberryPi_Check/CMakeEx/main.c",
+  "file": "/home/team2_2/testGit/RaspberryPi_Check/CMakeEx/main.c"
+}
+]
